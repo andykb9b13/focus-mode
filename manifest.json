@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "Focus Mode",
+  "description": "Allows a user to hide elements on the page to allow for better focus.",
+  "version": "1.0"
+}
